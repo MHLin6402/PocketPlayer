@@ -1,0 +1,84 @@
+{
+    "data": {
+        "magic": "APF_VER_1",
+        "data_slots": [
+            {
+                "name": "Playlist",
+                "id": 17,
+                "required": false,
+                "parameters": "0",
+                "filename": "playlist.bin",
+                "extensions": [
+                    "bin"
+                ],
+                "address": "0x21000000",
+                "size_exact": "0x10000"
+            },
+            {
+                "name": "Track Thumbs",
+                "id": 19,
+                "required": false,
+                "deferload": true,
+                "parameters": "0",
+                "filename": "track_thumbs.bin",
+                "extensions": [
+                    "bin"
+                ],
+                "address": "0x23000000",
+                "size_exact": "0x268F000"
+            },
+            {
+                "name": "Audio Bank 0",
+                "id": 20,
+                "required": false,
+                "deferload": true,
+                "parameters": "0",
+                "filename": "test_audio_bank0.bin",
+                "extensions": [
+                    "bin"
+                ],
+                "address": "0x24000000",
+                "size_exact": "0xF8200000"
+            },
+            {
+                "name": "Audio Bank 1",
+                "id": 21,
+                "required": false,
+                "deferload": true,
+                "parameters": "0",
+                "filename": "test_audio_bank1.bin",
+                "extensions": [
+                    "bin"
+                ],
+                "address": "0x25000000",
+                "size_exact": "0xF9600000"
+            },
+            {
+                "name": "Audio Bank 2",
+                "id": 22,
+                "required": false,
+                "deferload": true,
+                "parameters": "0",
+                "filename": "test_audio_bank2.bin",
+                "extensions": [
+                    "bin"
+                ],
+                "address": "0x26000000",
+                "size_exact": "0xF7300000"
+            },
+            {
+                "name": "Audio Bank 3",
+                "id": 23,
+                "required": false,
+                "deferload": true,
+                "parameters": "0",
+                "filename": "test_audio_bank3.bin",
+                "extensions": [
+                    "bin"
+                ],
+                "address": "0x27000000",
+                "size_exact": "0x4AC80000"
+            }
+        ]
+    }
+}
