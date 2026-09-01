@@ -10,6 +10,23 @@ natively on the Pocket's FPGA.
 
 If you enjoy PocketPlayer, consider [buying me a coffee](https://buymeacoffee.com/mhlin6402).
 
+## Screenshots
+
+Running on real Analogue Pocket hardware, with a demo library of silent
+placeholder tracks (no copyrighted audio or album art shown here - see
+[Requirements](#requirements)).
+
+<table>
+<tr>
+<td><img src="docs/images/nowplaying_tab.jpg" alt="Now Playing tab" width="400"></td>
+<td><img src="docs/images/library_tab.jpg" alt="Library tab" width="400"></td>
+</tr>
+<tr>
+<td align="center">Now Playing</td>
+<td align="center">Library</td>
+</tr>
+</table>
+
 ## Features
 
 - Library of up to 512 tracks, browsable by a scrolling list with per-row
