@@ -1,0 +1,46 @@
+name: Bug Report
+description: Something isn't working right on real hardware
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you expect, and what actually happened instead?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What did you do right before it happened? (e.g. "pressed Down twice on the Library tab", "let it sit on the screensaver for a few minutes")
+    validations:
+      required: false
+
+  - type: input
+    id: pocket-os
+    attributes:
+      label: Pocket firmware/OS version
+      placeholder: "e.g. 2.5"
+    validations:
+      required: false
+
+  - type: input
+    id: library-size
+    attributes:
+      label: Library size (roughly how many tracks)
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Debug log (optional, but very helpful)
+      description: >
+        If you can, grab the matching file from the SD card's
+        `/System/Logs/mhlin.PocketPlayer_*.txt` (pick the one with a
+        timestamp closest to when this happened) and drag-and-drop it
+        into this box.
+    validations:
+      required: false

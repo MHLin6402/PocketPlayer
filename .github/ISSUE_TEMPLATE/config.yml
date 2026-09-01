@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ideas & feedback
+    url: https://github.com/MHLin6402/PocketPlayer/discussions
+    about: Feature ideas, general feedback, or "what if it did X" - not a bug report.
+  - name: Questions
+    url: https://github.com/MHLin6402/PocketPlayer/discussions
+    about: Ask how something works or how to set it up.

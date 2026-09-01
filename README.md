@@ -154,6 +154,18 @@ For anything beyond this - building the core from source, understanding how
 it works internally, or contributing changes - see
 [docs/DEVELOPER_GUIDE.md](docs/DEVELOPER_GUIDE.md).
 
+## Feedback & Support
+
+- **Found a bug?** Open an [issue](https://github.com/MHLin6402/PocketPlayer/issues/new/choose).
+  It helps a lot to include: your Pocket's firmware/OS version, what you
+  were doing when it happened, and - if you can grab it - the matching log
+  file from the SD card's `/System/Logs/mhlin.PocketPlayer_*.txt` (you can
+  drag and drop it straight into the issue).
+- **Have an idea, a question, or general feedback?** Use
+  [Discussions](https://github.com/MHLin6402/PocketPlayer/discussions)
+  instead - that's a better fit than an issue for anything that isn't a
+  concrete bug.
+
 ## License
 
 [MIT](LICENSE). No music or album art is included with this project - only
