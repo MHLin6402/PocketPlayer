@@ -13,8 +13,7 @@ If you enjoy PocketPlayer, consider [buying me a coffee](https://buymeacoffee.co
 ## Screenshots
 
 Running on real Analogue Pocket hardware, with a demo library of silent
-placeholder tracks (no copyrighted audio or album art shown here - see
-[Requirements](#requirements)).
+placeholder tracks.
 
 <table>
 <tr>
