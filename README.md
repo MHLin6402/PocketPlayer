@@ -1,10 +1,14 @@
 # PocketPlayer
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mhlin6402)
+
 A music player [openFPGA](https://www.analogue.co/developer) core for the
 [Analogue Pocket](https://www.analogue.co/pocket). Build a library from your
 own music files, then browse and play it entirely on the Pocket - album art,
 shuffle and repeat, three Now Playing views, and a screensaver, all running
 natively on the Pocket's FPGA.
+
+If you enjoy PocketPlayer, consider [buying me a coffee](https://buymeacoffee.com/mhlin6402).
 
 ## Features
 
